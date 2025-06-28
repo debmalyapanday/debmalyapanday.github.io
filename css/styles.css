@@ -26,7 +26,7 @@ header {
   backdrop-filter: blur(10px);
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
   padding: 1.5rem 0;
-  position: sticky;
+  position: relative;
   top: 0;
   z-index: 100;
   box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
@@ -75,7 +75,7 @@ nav a:hover {
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   background-size: 400% 400%;
   animation: gradientShift 15s ease infinite;
-  height: 80vh;
+  height: 40vh;
   position: relative;
   display: flex;
   align-items: center;
