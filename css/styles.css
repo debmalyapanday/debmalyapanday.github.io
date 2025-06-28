@@ -32,7 +32,9 @@ nav a:hover {
 }
 
 .hero {
-  background: #ccc;  /* Placeholder background */
+  background-image: url('/images/homepage.jpg');
+  background-size: cover;
+  background-position: center;
   height: 70vh;
   display: flex;
   align-items: center;
