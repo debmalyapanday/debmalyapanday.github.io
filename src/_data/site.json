@@ -41,6 +41,11 @@
       "name": "Legal Compliance",
       "description": "Full regulatory approval and compliance management.",
       "icon": "fas fa-shield-alt"
+    },
+    {
+      "name": "Property Management",
+      "description": "Ongoing maintenance and tenant management for your properties.",
+      "icon": "fas fa-tasks"
     }
   ],
   "reviews": [
@@ -51,6 +56,10 @@
     {
       "quote": "A truly professional and trustworthy team. They handled everything with utmost care and transparency.",
       "author": "Mr. & Mrs. Gupta"
+    },
+    {
+      "quote": "The best in the business. We are so grateful for their hard work and commitment.",
+      "author": "The Singhs"
     }
   ]
 }
