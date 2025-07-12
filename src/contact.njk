@@ -1,0 +1,17 @@
+---
+layout: layout.njk
+title: Contact Us
+---
+
+<div class="section">
+    <div class="container">
+        <h2>Contact Us</h2>
+        <div class="contact-info">
+            <p><i class="fas fa-user"></i> <strong>{{ site.contact.name }}</strong> - {{ site.contact.title }}</p>
+            <p><i class="fas fa-phone"></i> <a href="tel:{{ site.contact.phone }}">{{ site.contact.phone }}</a></p>
+            <p><i class="fas fa-envelope"></i> <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></p>
+            <p><i class="fab fa-whatsapp"></i> <a href="https://wa.me/{{ site.contact.whatsapp }}" target="_blank">Chat on WhatsApp</a></p>
+            <p><i class="fab fa-facebook"></i> <a href="{{ site.contact.facebook }}" target="_blank">Follow us on Facebook</a></p>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,18 @@
+---
+layout: layout.njk
+title: Reviews
+---
+
+<div class="section">
+    <div class="container">
+        <h2>What Our Clients Say</h2>
+        <div class="grid">
+            {% for review in site.reviews %}
+                <div class="card">
+                    <p>"{{ review.quote }}"</p>
+                    <p><strong>- {{ review.author }}</strong></p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

@@ -1,0 +1,56 @@
+{
+  "title": "Hare Krishna Developers",
+  "description": "Building Dreams with Devotion. Your trusted partner in creating exceptional real estate experiences.",
+  "author": "Debmalya Panday",
+  "navigation": [
+    { "name": "Home", "url": "/" },
+    { "name": "About", "url": "/about/" },
+    { "name": "Contact", "url": "/contact/" },
+    { "name": "Reviews", "url": "/reviews/" }
+  ],
+  "contact": {
+    "name": "Krishnendu Panday",
+    "title": "Principal Developer",
+    "phone": "+91 87268 92776",
+    "email": "abcd@gmail.com",
+    "whatsapp": "918617877725",
+    "facebook": "https://facebook.com/"
+  },
+  "services": [
+    {
+      "name": "Land Acquisition & Documentation",
+      "description": "Complete legal paperwork and property verification services.",
+      "icon": "fas fa-map-marked-alt"
+    },
+    {
+      "name": "Residential Construction",
+      "description": "Custom homes designed to match your vision and lifestyle.",
+      "icon": "fas fa-home"
+    },
+    {
+      "name": "Commercial Development",
+      "description": "Professional spaces that drive business success.",
+      "icon": "fas fa-building"
+    },
+    {
+      "name": "Broker Collaboration",
+      "description": "Extensive network for the best deals and opportunities.",
+      "icon": "fas fa-handshake"
+    },
+    {
+      "name": "Legal Compliance",
+      "description": "Full regulatory approval and compliance management.",
+      "icon": "fas fa-shield-alt"
+    }
+  ],
+  "reviews": [
+    {
+      "quote": "Hare Krishna Developers made our dream home a reality. Their dedication and attention to detail are unmatched.",
+      "author": "The Sharma Family"
+    },
+    {
+      "quote": "A truly professional and trustworthy team. They handled everything with utmost care and transparency.",
+      "author": "Mr. & Mrs. Gupta"
+    }
+  ]
+}
